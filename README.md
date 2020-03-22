@@ -19,3 +19,4 @@ Resources:
 - time
 - urllib
 
+To view full notebook online: [here](https://nbviewer.jupyter.org/github/BrendaL94/Map-Visualisation/blob/master/Population%20Map.ipynb)

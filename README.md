@@ -8,6 +8,9 @@ Resources:
 - Population Data: South African Market Insights. 2019. Population Density Map For South Africa. [online] Available: [here](https://www.southafricanmi.com/population-density-map.html) [Accessed 22 March 2020].
 - Json shapefile: [link here](https://github.com/deldersveld/topojson/tree/master/countries/south-africa)
 
+## Python version:
+- 3.6
+
 ## Packages for plotting:
 - folium
 - json
